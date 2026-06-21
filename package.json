@@ -12,8 +12,5 @@
     "win": {
       "target": "nsis"
     }
-  },
-  "overrides": {
-    "@noble/hashes": "1.8.0"
   }
 }
