@@ -9,6 +9,10 @@
   "build": {
     "appId": "com.comeo.app",
     "productName": "Comeo",
+    "files": [
+      "main.js",
+      "package.json"
+    ],
     "win": {
       "target": "nsis"
     }
@@ -16,13 +20,5 @@
   "devDependencies": {
     "electron": "^42.4.1",
     "electron-builder": "24.13.3"
-  }
-}
-"build": {
-  "appId": "com.comeo.app",
-  "productName": "Comeo",
-  "publish": null,
-  "win": {
-    "target": "nsis"
   }
 }
