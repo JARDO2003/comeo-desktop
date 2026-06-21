@@ -12,5 +12,9 @@
     "win": {
       "target": "nsis"
     }
+  },
+  "devDependencies": {
+    "electron": "^42.4.1",
+    "electron-builder": "24.13.3"
   }
 }
