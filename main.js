@@ -5,8 +5,7 @@ function createWindow() {
     width: 1200,
     height: 800,
   });
-
-  win.loadURL('https://');
+win.loadURL('https://comeo-murex.vercel.app/anita.html');
   win.removeMenu();
 }
 
