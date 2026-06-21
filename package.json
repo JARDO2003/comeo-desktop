@@ -18,3 +18,11 @@
     "electron-builder": "24.13.3"
   }
 }
+"build": {
+  "appId": "com.comeo.app",
+  "productName": "Comeo",
+  "publish": null,
+  "win": {
+    "target": "nsis"
+  }
+}
