@@ -5,7 +5,7 @@ function createWindow() {
     width: 1200,
     height: 800,
   });
-win.loadURL('https://comeo-murex.vercel.app/anita.html');
+win.loadURL('https://comeoreview.vercel.app/');
   win.removeMenu();
 }
 
